@@ -10,7 +10,7 @@ Atualmente, estou no último ano do curso de **Sistemas e Redes Computacionais**
 
 Meu objetivo é **usar a programação como ferramenta de transformação social e desenvolvimento sustentável**.
 
-📫 E-mail: [gersonalsinar2010@gmail.com](mailto:gersonalsinar2010@icloud.com)  
+📫 E-mail: [gersonalsinar2010@icloud.com](mailto:gersonalsinar2010@icloud.com)  
 📱 WhatsApp: +258 84 417 2545 
 
 ---
