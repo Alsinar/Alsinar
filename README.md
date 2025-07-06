@@ -4,7 +4,7 @@
 
 Sou **Gerson João Alsinar**, mais conhecido como **Alsinar**, desenvolvedor fullstack moçambicano, apaixonado por tecnologia, inovação e principalmente por **programação**.
 
-Desde cedo me envolvi com desenvolvimento de software, e hoje aplico essa paixão para criar soluções que realmente fazem a diferença. Tenho interesse especial por **backend, APIs, automações inteligentes, integrações com IA e tecnologias web modernas**.
+Desde cedo me envolvi com desenvolvimento de software, e hoje aplico essa paixão para criar soluções que realmente fazem a diferença. Tenho interesse especial por **backend, integrações com IA e tecnologias web modernas**.
 
 Atualmente, estou no último ano do curso de **Sistemas e Redes Computacionais** na Universidade Wutivi, em Maputo. Também sou fundador da **2point0 Developers**, onde lidero projetos que conectam ideias a soluções digitais funcionais e acessíveis para empresas e comunidades.
 
